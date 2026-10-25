@@ -1,0 +1,7 @@
+name = "PollisRSS"
+uuid = "a90e8467-7a07-416a-86f1-fcffab5faf31"
+authors = ["Antonio Saragga Seabra"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"
